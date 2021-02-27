@@ -2,7 +2,7 @@
 Start the game:
 	python dungeon.py
 
-Help:
+<b>Help:</b><br/>
 	python dungeon.py help
 
 Exit:
